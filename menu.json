@@ -1,0 +1,162 @@
+{
+  "MINUMAN": {
+    "JERUK": [
+      {"name": "ES JERUK", "price": "10K"},
+      {"name": "ES JERUK/TEKO", "price": "28K"},
+      {"name": "JERUK NIPIS", "price": "9K"},
+      {"name": "Lm.tea", "price": "10K"},
+      {"name": "Lm.tea/teko", "price": "23K"}
+    ],
+    "TEH": [
+      {"name": "ES TEH KECIL", "price": "4K"},
+      {"name": "ES TEH BESAR", "price": "6K"},
+      {"name": "ES TEH/TEKO", "price": "17K"},
+      {"name": "TEH/TEKO", "price": "17K"},
+      
+    ],
+    "SUSU": [
+      {"name": "CAPPUCINO", "price": "7K"},
+      {"name": "SIRUP", "price": "27K"},
+      {"name": "ES SIRUP TEKO", "price": "10K"},
+      {"name": "SUSU SIRUP", "price": "35K"},
+      {"name": "SUSU SIRUP/TEKO", "price": "16K"},
+      {"name": "MILO DINO", "price": "12K"},
+      {"name": "ES SODA GEMBIRA", "price": "11K"},
+      {"name": "CAPPUCINO", "price": "15K"},
+      {"name": "CAPPUCINO FLOAT", "price": "15K"}
+    ],
+    "KOPI": [
+      {"name": "TARO FLOAT", "price": "15K"},
+      {"name": "STRAWBERRY FLOAT", "price": "15K"},
+      {"name": "ALPUKAT FLOAT", "price": "15K"},
+      {"name": "KOPI HITAM", "price": "6K"},
+      {"name": "KOPI HITAM/TEKO", "price": "33K"},
+      {"name": "KOPI SUSU", "price": "7K"},
+      {"name": "KOPI SUSU /TEKO", "price": "35K"}
+    ],
+    "JUS": [
+      {"name": "BELIMBING SPCL", "price": "7K"},
+      {"name": "JAMBU", "price": "9K"},
+      {"name": "TOMAT", "price": "15K"},
+      {"name": "JUS MIX", "price": "15K"}
+    ],
+    "ICE CREAM": [
+      {"name": "STRAWBERRY FLOAT", "price": "15K"},
+      {"name": "KELAPA MUDA FLOAT", "price": "15K"},
+      {"name": "NANAS", "price": "9K"},
+      {"name": "ICE CREAM MIX", "price": "15K"},
+      {"name": "KRAMPUL", "price": "9K"},
+      {"name": "WEDANG CORO KHAS DEMAK", "price": "7K"},
+      {"name": "ES KUWUT", "price": "15K"}
+    ],
+    "SOP BUAH": [
+      {"name": "JAHE", "price": "9K"},
+      {"name": "JAHE SUSU ANGET", "price": "10K"},
+      {"name": "ES JAHE SUSU", "price": "11K"},
+      {"name": "SOP BUAH", "price": "15K"},
+      {"name": "GELAS", "price": "9K"},
+      {"name": "UTUH ORI", "price": "13K"},
+      {"name": "UTUH SIRUP", "price": "15K"},
+      {"name": "UTUH SUSU", "price": "17K"},
+      {"name": "UTUH GULA JAWA/PASIR", "price": "14K"}
+    ]
+  },
+  "MAKANAN": {
+    "SUP": [
+      {"name": "GURAME GORENG", "price": "100K/KG"},
+      {"name": "GURAME BAKAR SAUS MADU", "price": "105K/KG"},
+      {"name": "SUP NILA BESAR", "price": "35K"},
+      {"name": "SUP NILA KECIL", "price": "33K"},
+      {"name": "SUP NILA JUMBO", "price": "37K"},
+      {"name": "SUP BELUT", "price": "27K"},
+      {"name": "SUP IGA", "price": "55K"},
+      {"name": "SUP KEPITING", "price": "55K"},
+      {"name": "SUP BUNTUT BAKAR", "price": "55K"}
+    ],
+    "KERANG": [
+      {"name": "KERANG GORENG", "price": "26K"},
+      {"name": "KERANG BAKAR SAUS MADU", "price": "27K"},
+      {"name": "KERANG BELIMBING RESTO", "price": "16K"}
+    ],
+    "BELUT": [
+      {"name": "BELUT GORENG", "price": "10K"},
+      {"name": "BELUT BAKAR", "price": "12K"}
+    ],
+    "CAP CAY": [
+      {"name": "CAP CAY GORENG", "price": "15K"},
+      {"name": "CAP CAY REBUS", "price": "15K"},
+      {"name": "CAP CAY SEAFOOD", "price": "19K"}
+    ],
+    "BEBEK": [
+      {"name": "BEBEK GORENG", "price": "23K"},
+      {"name": "BEBEK BAKAR", "price": "23K"}
+    ],
+    "LELE": [
+      {"name": "LELE GORENG", "price": "23K"},
+      {"name": "LELE BAKAR MADU", "price": "23K"},
+      {"name": "LELE BAKAR KECAP", "price": "23K"},
+      {"name": "LELE PENYET", "price": "23K"}
+    ],
+    "AYAM": [
+      {"name": "AYAM GORENG", "price": "29K"},
+      {"name": "AYAM BAKAR", "price": "29K"},
+      {"name": "AYAM PENYET", "price": "29K"}
+    ],
+    "NASI": [
+      {"name": "NASI PUTIH", "price": "5K"},
+      {"name": "NASI PUTIH BAKUL K", "price": "15K"},
+      {"name": "NASI PUTIH BAKUL B", "price": "17K"}
+    ],
+    "KEONG": [
+      {"name": "KEONG SAYUR DAUN SINGKIL", "price": "12K"},
+      {"name": "KEONG OSENG", "price": "13K"},
+      {"name": "KEONG SAUS PADANG", "price": "20K"},
+      {"name": "TOMYAM KEONG", "price": "20K"},
+      {"name": "KEONG SAYUR JAGUNG", "price": "22K"}
+    ],
+    "IGA": [
+      {"name": "IGA BAKAR", "price": "55K"},
+      {"name": "IGA PENYET", "price": "55K"},
+      {"name": "SUP IGA", "price": "55K"}
+    ],
+    "MIE": [
+      {"name": "MIE GORENG TELUR", "price": "16K"},
+      {"name": "MIE REBUS TELUR", "price": "16K"},
+      {"name": "MIE GORENG SEAFOOD", "price": "19K"},
+      {"name": "MIE REBUS SEAFOOD", "price": "19K"}
+    ],
+    "KWETIAW": [
+      {"name": "KWETIAW GORENG TELUR", "price": "15K"},
+      {"name": "KWETIAW REBUS TELUR", "price": "15K"},
+      {"name": "KWETIAW GORENG SEAFOOD", "price": "18K"},
+      {"name": "KWETIAW REBUS SEAFOOD", "price": "18K"}
+    ],
+    "NASGOR": [
+      {"name": "NASGOR BR", "price": "15K"},
+      {"name": "NASGOR SEAFOOD", "price": "20K"},
+      {"name": "NASGOR TELUR", "price": "16K"},
+      {"name": "NASGOR AYAM", "price": "18K"},
+      {"name": "NASGOR SPESIAL", "price": "23K"}
+    ],
+     "PELENGKAP": [
+    {"name": "SAMBAL KECAP", "price": "3K"},
+    {"name": "SAMBAL TERASI", "price": "3K"},
+    {"name": "SAMBAL MENTAH", "price": "3K"},
+    {"name": "TAHU ISI", "price": "5K"},
+    {"name": "TAPAI PANDAN", "price": "7K"},
+    {"name": "TAPAI HUTAN", "price": "7K"},
+    {"name": "TAHU PLEK", "price": "5K"},
+    {"name": "TAHU TEK-TEK", "price": "7K"},
+    {"name": "TAHU JAMBLANG", "price": "6K"},
+    {"name": "KERUPUK UDANG", "price": "7K"},
+    {"name": "KERUPUK GURAMI", "price": "7K"}
+  ],
+  "SNACK": [
+    {"name": "KROKET", "price": "4K"},
+    {"name": "PISANG GORENG", "price": "5K"},
+    {"name": "PISANG KEJU", "price": "7K"},
+    {"name": "ROTI BAKAR COKLAT", "price": "7K"},
+    {"name": "ROTI BAKAR KEJU", "price": "7K"},
+    {"name": "ROTI BAKAR SPECIAL", "price": "9K"}
+  ]
+}
